@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Personal Profile</title>
+</head>
+
+<body style="font-family:'Times New Roman', serif; margin:50px; color:black; line-height:1.6;">
+
+<h1>Laiba imran</h1>
+
+<p>
+I am a Software Engineering student at Capital University of Science and Technology. 
+I have a strong interest in web development, networking, and software design. 
+I enjoy learning new technologies and continuously improving my technical and problem-solving skills through academic projects and practical experience.
+</p>
+
+<h2>My Skills</h2>
+
+<ul>
+<li>HTML and CSS Web Development</li>
+<li>Basic JavaScript Programming</li>
+<li>Python Programming</li>
+<li>Computer Networking using Cisco Packet Tracer</li>
+<li>Software Documentation and SRS Writing</li>
+</ul>
+
+<h2>My Favorite Websites</h2>
+
+<p>
+<a href="https://www.github.com" target="_blank">GitHub</a><br>
+<a href="https://www.w3schools.com" target="_blank">W3Schools</a><br>
+<a href="https://www.linkedin.com" target="_blank">LinkedIn</a>
+</p>
+
+<h2>Favorite Technology</h2>
+
+<img src="https://www.google.com/search?q=profile+picture+&sca_esv=436d40f9f8d3ade5&udm=2&biw=1600&bih=773&sxsrf=APpeQntsg8rRFfCbSW8tHXhpK9Ks2C9L_g%3A1790577999788&ei=Tw26atzDL4WohbIP6qPLkA0&ved=2ahUKEwicp_rs1pCXAxUFVEEAHerREtIQ4dUDegQIBhAN&uact=5&oq=profile+picture+&gs_lp=Egtnd3Mtd2l6LWltZyIQcHJvZmlsZSBwaWN0dXJlIDIHECMYyQIYJzIHECMYyQIYJzIIEAAYgAQYsQMyCBAAGIAEGLEDMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESNMeUMUWWMUWcAJ4AJABAJgBwAGgAcABqgEDMC4xuAEDyAEA-AEBmAIDoALOAcICBhAAGAcYHpgDAIgGAZIHAzIuMaAHmQeyBwMwLjG4B8QBwgcFMC4yLjHIBwqACAE&sclient=gws-wiz-img#sv=CAMSURoyKhBlLVlTZW9QeGVqX0hvandNMg5ZU2VvUHhlal9Ib2p3TToOSUVadExWZzRZdFoyaE0gBCoXCgFzEhBlLVlTZW9QeGVqX0hvandNGAEwARgHILPl3tINSggQARgBIAEoAQ"width="120">
+<footer style="margin-top:50px; border-top:1px solid black; padding-top:10px;">
+<p>Email: laibaimran136@gmail.com</p>
+</footer>
+
+</body>
+</html>
